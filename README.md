@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bochiedev&label=Profile%20views&color=0e75b6&style=flat" alt="bochiedev" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bochiedev" alt="bochiedev" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/kabochijames1" target="blank"><img src="https://img.shields.io/twitter/follow/kabochijames1?logo=twitter&style=for-the-badge" alt="kabochijames1" /></a> </p>
 
 - 🔭 I’m currently working on [Video Streaming Platform](https://github.com/bochiedev/python-rtmp-server)
